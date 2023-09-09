@@ -1,0 +1,27 @@
+table {
+    margin: 30px auto;
+    width: 370px;
+}
+
+thead tr {
+    margin-bottom: 5px;
+    padding: 10px;
+}
+
+table th {
+    font-weight: 700;
+    font-size: 20px;
+    margin-bottom: 5px;
+}
+
+table td {
+    width: inherit;
+    font-weight: 500;
+}
+
+table tr {
+    display: flex;
+    justify-content: space-around;
+    height: 40px;
+    align-items: center;
+}
